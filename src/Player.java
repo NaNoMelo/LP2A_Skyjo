@@ -15,8 +15,7 @@ public class Player {
         }
     }
 
-
-
-
-
+    public Card[][] getCards() {
+        return cards;
+    }
 }

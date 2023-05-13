@@ -21,8 +21,9 @@ public class Card {
     }
 
     //setters
-    public void setVisible(boolean visible) {
+    public Card setVisible(boolean visible) {
         this.visible = visible;
+        return this;
     }
 
 }

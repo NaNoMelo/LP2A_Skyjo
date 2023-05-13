@@ -3,6 +3,6 @@ import java.io.IOException;
 public class Main {
     public static void main(String[] args) throws IOException {
         System.out.println("Hello world!");
-        Game game = new Game(2);
+        Game game = new Game();
     }
 }
