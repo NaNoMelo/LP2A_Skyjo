@@ -14,6 +14,21 @@ public class Player {
             }
         }
     }
+    //getter
+    public Card[][] getCards() {
+        return cards;
+    }
+    public String getName() {
+        return name;
+    }
+    //setter
+    public void setCards(Card[][] cards) {
+        this.cards = cards;
+    }
+    public void setName(String name) {
+        this.name = name;
+    }
+
 
     public Card[][] getCards() {
         return cards;

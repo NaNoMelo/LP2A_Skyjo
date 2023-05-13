@@ -1,12 +1,10 @@
 import java.io.IOException;
-
 public class Board {
     private int nbPlayers;
     private Player[] players;
     private Deck drawPile;
     private Deck discardPile;
-    private int turn;
-
+    private int turn = 0;
     public Board(int nbPlayers) throws IOException {
         this.drawPile = new Deck();
         try {
@@ -24,60 +22,47 @@ public class Board {
             players[i] = new Player("Player " + i);
             players[i].drawCards(drawPile);
         }
-        discardPile.add(drawPile.drawCard().setVisible(true));
+    }
+//getter
+    public int getNbPlayers() {
+        return nbPlayers;
     }
 
-    public void selectTurn() {
-        int best = 0;
-        int bestPlayer = 0;
-        for (int p = 0; p < nbPlayers; p++) {
-            Player player = players[p];
-            Card[][] cards = player.getCards();
-            int score = 0;
-            for (int i = 0; i < 4; i++) {
-                for (int j = 0; j < 3; j++) {
-                    score += cards[i][j].isVisible() ? cards[i][j].getScore() : 0;
-                }
-            }
-            if (score > best) {
-                best = score;
-                bestPlayer = p;
-            }
-        }
-        System.out.println("Player " + bestPlayer + " starts");
-        turn = bestPlayer;
+    public Player[] getPlayers() {
+        return players;
     }
 
-    public int play(boolean fromDiscard,int row, int col, boolean discard) {
-        Player player = players[turn];
-        Card[][] cards = player.getCards();
-        Card card = cards[row][col];
-        if (fromDiscard) {
-            if (discardPile.isEmpty()){
-                System.out.println("Discard pile is empty");
-                return 1;
-            }
-            cards[row][col] = discardPile.poll().setVisible(true);
-            discardPile.add(card.setVisible(true));
-        } else {
-            if (drawPile.isEmpty()){
-                System.out.println("Draw pile is empty");
-                return 2;
-            }
-            if (discard) {
-                discardPile.add(drawPile.poll().setVisible(true));
-                if (cards[row][col].isVisible()) {
-                    System.out.println("Card is already visible");
-                    return 3;
-                }
-                cards[row][col].setVisible(true);
-            } else {
-                cards[row][col] = drawPile.poll().setVisible(true);
-                discardPile.add(card.setVisible(true));
-            }
+    public Deck getDrawPile() {
+        return drawPile;
+    }
+
+    public Deck getDiscardPile() {
+        return discardPile;
+    }
+//setter
+    public void setNbPlayers(int nbPlayers) {
+        this.nbPlayers = nbPlayers;
+    }
+
+    public void setPlayers(Player[] players) {
+        this.players = players;
+    }
+
+    public void setDrawPile(Deck drawPile) {
+        this.drawPile = drawPile;
+    }
+
+    public void setDiscardPile(Deck discardPile) {
+        this.discardPile = discardPile;
+    }
+    public int getTurn() {
+        return turn;
+    }
+    //print the deck
+    public void printDeck() {
+        for (int i = 0; i < drawPile.size(); i++) {
+            System.out.println(drawPile.get(i).getUV());
         }
-        turn = (turn + 1) % nbPlayers;
-        return 0;
     }
 
 }
