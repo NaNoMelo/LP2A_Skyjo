@@ -1,0 +1,224 @@
+CS | AC20 | Acquisition de Connaissances | 6
+CS | CM1A | Organisation de la matière - partie I | 3
+CS | CM1B | Organisation de la matière - partie II | 3
+CS | CMIA | Les bases pour la chimie et la science des matériaux - partie I | 3
+CS | CMIB | Les bases pour la chimie et la science des matériaux - partie II | 3
+CS | LO21 | Algorithmique et programmation : niveau II | 6
+CS | MAA1 | Structure et propriétés des matériaux et des alliages | 3
+CS | MAA2 | Structure et propriétés des matériaux et des alliages | 3
+CS | MAC1 | Matériaux céramiques | 3
+CS | MAC2 | Matériaux organiques | 3
+CS | MT1A | Algèbre et analyse (niveau 1) | 6
+CS | MT1B | Algèbre et analyse (niveau 1) | 6
+CS | MT1C | Algèbre et analyse (niveau 1) | 6
+CS | MT1D | Algèbre et analyse (niveau 1) | 6
+CS | MT1E | Algèbre et analyse (niveau 1) | 6
+CS | MT20 | Mathématiques de base III pour les STI2D-STL | 6
+CS | MT21 | Mathématiques de base IV pour les STI2D-STL | 6
+CS | MT28 | Mathématiques et modélisation | 6
+CS | MT2A | Algèbre et analyse (niveau 2) | 6
+CS | MT2B | Algèbre et analyse (niveau 2) | 6
+CS | MT2C | Algèbre et analyse (niveau 2) | 6
+CS | MT2D | Algèbre et analyse (niveau 2) | 6
+CS | MT2E | Algèbre et analyse (niveau 2) | 6
+CS | MTC1 | Algèbre et analyse de deuxième année | 6
+CS | MTC7 | Second year algebra and analysis | 6
+CS | MTI0 | Mathématiques du secondaire | 6
+CS | PM1A | Outils mathématiques élémentaires appliqués à la physique - partie I | 3
+CS | PM1B | Outils mathématiques élémentaires appliqués à la physique - partie II | 3
+CS | PMIA | Outils mathématiques élémentaires appliqués à la physique - partie I | 3
+CS | PMIB | Outils mathématiques élémentaires appliqués à la physique - partie II | 3
+CS | PS1A | Initiation à l'électricité - partie I | 3
+CS | PS1B | Initiation à l'électricité - partie II | 3
+CS | PS20 | Physique pour les STI2D-STL partie III | 6
+CS | PS21 | Physique pour les STI2D-STL partie IV | 6
+CS | PS22 | Electronique analogique | 3
+CS | PS25 | Mécanique du solide | 3
+CS | PS26 | Electromagnétisme | 6
+CS | PS27 | Thermodynamique | 6
+CS | PS28 | Thermodynamics | 6
+CS | PS29 | Rigid Body Mechanics | 6
+CS | PS2A | Mécanique du point - partie I | 3
+CS | PS2B | Mécanique du point - partie II | 3
+CS | PSIA | Initiation à l'électricité - partie I | 3
+CS | PSIB | Initiation à l'électricité - partie II | 3
+CS | PSIC | Mécanique du point - partie I | 3
+CS | PSID | Mécanique du point - partie II | 3
+CS | SQ20 | Probabilités et statistiques | 6
+TM | CI00 | Recherche et utilisation de l'information | 1
+TM | CI01 | Compétences numériques - Certification Pix | 1
+TM | DT20 | Initiation au Design thinking | 6
+TM | EL21 | Initiation au génie électrique | 6
+TM | EL22 | Initiation à l'automatique | 6
+TM | ID01 | Innovation Crunch Time - Catégorie Projet Industriel | 1
+TM | ID02 | Innovation Crunch Time - Catégorie Startupper | 1
+TM | IF1A | Bases de l'informatique pour l'ingénieur - partie I | 3
+TM | IF1B | Bases de l'informatique pour l'ingénieur - partie II | 3
+TM | IF2A | Algorithmique et programmation : niveau I, débutants - partie I | 3
+TM | IF2B | Algorithmique et programmation : niveau I, débutants - partie II | 3
+TM | IF3A | Initiation aux bases de données | 3
+TM | IF3B | Informatique pratique | 3
+TM | LP25 | Système d'exploitation Linux et programmation système en langage C | 6
+TM | LP2A | Introduction to object conception and programming | 3
+TM | LP2B | Multimedia: digital representation | 3
+TM | MBE1 | Mécanique et bureau d'études - partie I | 3
+TM | MBE2 | Mécanique et bureau d'études - partie II | 3
+TM | MBE3 | Mécanique et bureau d'études - partie III | 3
+TM | MBE4 | Mécanique et bureau d'études - partie IV | 3
+TM | MDA1 | Méthodologie-outils | 3
+TM | MDA2 | Soutien et remédiation | 0
+TM | MDB1 | Méthodologies-Projet international | 1
+TM | MDB2 | Soutien et remédiation | 0
+TM | PC20 | Culture projet collaboratif : raisonner et agir ensemble | 4
+TM | PI40 | Introduction aux procédés de fabrication | 6
+TM | TN1A | Initiation aux techniques de l'ingénieur : niveau I, débutants - partie I | 3
+TM | TN1B | Initiation aux techniques de l'ingénieur : niveau I, débutants - partie II | 3
+TM | TN20 | Mise en forme des matériaux métalliques | 6
+TM | TN22 | Organisation et méthodes industrielles | 6
+TM | TZ20 | Travaux de laboratoire | 6
+OM | CC01 | Comportement culturel et relations humaines au niveau international | 5
+OM | DR01 | Introduction à l'étude du droit | 5
+OM | DR02 | Cadre juridique des sociétés | 5
+OM | DR04 | Connaissances juridiques de l'ingénieur | 5
+OM | DR10 | Droit des sociétés | 3
+OM | EC01 | Fondements de l'économie pour l'ingénieur | 5
+OM | EC02 | Mondialisation de l'économie | 5
+OM | EC10 | Introduction à la microéconomie | 3
+OM | EC11 | Introduction à la macroéconomie | 3
+OM | EI04 | Industrial Buying, Selling and Negotiation | 5
+OM | EI05 | An Introduction to Innovation Studies | 5
+OM | EV00 | Initiation à l'environnement et à ses problèmatiques | 5
+OM | GE00 | Recherche d'information et connaissance de l'entreprise | 3
+OM | GE01 | Fondements de la gestion | 5
+OM | GE02 | Evaluation de la performance | 5
+OM | GE03 | Gestion des ressources humaines | 5
+OM | GE06 | Fondements du marketing | 5
+OM | GE07 | Gestion financière et investissement | 5
+OM | GE08 | Contrôle de gestion | 5
+OM | GE10 | Gestion et industrie | 3
+OM | GE11 | L'ingénieur et la gestion | 3
+OM | HE10 | Histoire économique : du libéralisme du XVIIIème siècle aux débats contemporains | 3
+OM | HN03 | Ingénierie des connaissances INNOV-UT | 4
+OM | ID00 | Innovation Crunch Time - Découverte | 1
+OM | MG01 | Management de l'innovation et entrepreneuriat | 5
+OM | MG03 | Jeux d'entreprise : application des méthodes de gestion comptables et économiques | 5
+OM | MG04 | Management de l'environnement | 5
+OM | MG05 | Management de l'information et intelligence économique | 5
+OM | MG07 | Management par la proximité | 5
+OM | MG10 | Introduction à l'intelligence économique | 3
+OM | MG11 | Introduction au management | 3
+OM | MG12 | Management des ressources humaines | 3
+OM | MG6P | Les brevets au service de l'ingénieur - Projet | 2
+OM | MG6T | Les brevets au service de l'ingénieur - Théorie | 3
+OM | SO02 | Usages et innovation (sociologie) | 5
+OM | SO07 | Sociologie des organisations | 5
+OM | SO09 | Santé et sécurité au travail | 5
+OM | SO10 | Sociologie de l'entreprise | 3
+OM | SP01 | Gestion de la vie physique | 5
+OM | SP03 | Entraînement et performances | 5
+OM | SP08 | Education physique et sportive option gestion d'un groupe, animation d'une séance | 5
+OM | TI02 | Expression orale | 5
+OM | TI05 | Communication globale du manager | 5
+OM | TI09 | Communication orale en groupe | 5
+OM | TI10 | Communication en entreprise | 3
+ST | ST00 |	Semestre de césure | 0	
+ST | ST10 |	Stage ouvrier | 6		
+ST | ST20 |	Stage à l'étranger | 6			
+ST | ST21 |	Université d'été | 6
+EC|AV00|Réalisation audiovisuelle|5
+EC|LA00|Arabe vrai débutant|4
+EC|LC00|Chinois vrai débutant|4
+EC|LC01|Chinois niveau I|4
+EC|LC02|Chinois niveau II|4
+EC|LC08|Préparation à l'examen international HSK|4
+EC|LE01|Anglais niveau I|4
+EC|LE02|Anglais niveau II|4
+EC|LE03|Anglais pratique et examen international|6
+EC|LE05|Business English|4
+EC|LE07|Anglais de la technologie et de l'industrie|4
+EC|LE08|Communication écrite en anglais|4
+EC|LE09|Communication orale en anglais|4
+EC|LF70|Français langue étrangère vrai débutant A.1.1 A1.2|4
+EC|LF71|Français langue étrangère A2|4
+EC|LF72|Français pour élèves-ingénieurs A2.2-B1.1|4
+EC|LF73|Français pour ingénieurs niveau B1.2|4
+EC|LG00|Allemand vrai débutant|4
+EC|LG01|Allemand niveau I|4
+EC|LG02|Allemand niveau II|4
+EC|LG03|Allemand pratique et examen international|6
+EC|LG05|Allemand des affaires|4
+EC|LI00|Italien vrai débutant|4
+EC|LI01|Italien niveau I|4
+EC|LJ00|Japonais vrai débutant|4
+EC|LJ01|Japonais niveau I|4
+EC|LJ02|Japonais niveau II|4
+EC|LJ08|Préparation à l'examen international de Japonais (JLPT niveau 5)|4
+EC|LK00|Coréen vrai débutant|4
+EC|LK01|Coréen niveau I|4
+EC|LK08|Coréen pratique et examen international|4
+EC|LR00|Russe vrai débutant|4
+EC|LR01|Russe niveau I|4
+EC|LS00|Espagnol vrai débutant|4
+EC|LS01|Espagnol niveau I|4
+EC|LS02|Espagnol niveau II|4
+EC|LS03|Espagnol pratique et examen international|6
+EC|LS04|Culture et civilisation hispanophone|4
+EC|LS05|Espagnol des affaires|4
+EC|LZ00|Langue non enseignée à l'UTBM|4
+EC|SL00|Suivi linguistique en Anglais|4
+EC|SL01|Suivi linguistique en Allemand|4
+EC|SL02|Suivi linguistique en Espagnol|4
+EC|SL03|Suivi linguistique en Russe|4
+EC|SL05|Suivi linguistique en Italien|4
+EC|SL06|Suivi linguistique en Français langue étrangère|4
+EC|SL08|Suivi linguistique en Japonais|4
+QC|AM02|Pratique et création artistique|5
+QC|AR03|Initiation au design industriel|5
+QC|AR05|Outils et moyens d'expression du design|5
+QC|CC02|Culture et société asiatique|5
+QC|CC03|American studies|5
+QC|CC04|British studies|5
+QC|CC05|Intercultural awareness:How to become a global citizen ?|5
+QC|CI02|Maîtriser son identité scientifique|1
+QC|EC05|Actualités sociales. Questions de sociétés|5
+QC|EC06|Théorie des risques|5
+QC|EE01|Europe|5
+QC|EE10|Europe : unité et diversité|3
+QC|EI00|French Insight|3
+QC|EI02|The Rest of the English-Speaking World|5
+QC|EI03|International Security and Global Challenges|5|
+QC|EI10|Regards sur le Japon|5
+QC|EI11|Regards croisés sur l'Asie|3
+QC|EI12|Géopolitique et organisations internationales|5
+QC|ESP1|UTBM Summer School (1 week)|2
+QC|ESP3|Tutored project|6
+QC|ESP4|Tutored project|12
+QC|ESP5|Tutored Project|18
+QC|EV01|Imaginer et concevoir les nouvelles mobilités|5
+QC|EV02|Energy and Environment|5
+QC|EV04|Environmental and energy economics|5
+QC|EV05|La ville en transition|5
+QC|GE09|Marketing connecté et marketing BtoB|5
+QC|HE05|Les ingénieurs et les techniciens dans le temps|5
+QC|HE08|L'industrie contemporaine : mise en perspective historique et économique|5
+QC|HE09|Histoire des sciences et du monde scientifique|5
+QC|HN01|Techn'hom Time Machine : outils et méthodes|5
+QC|HT01|Initiation à l'histoire des techniques|5
+QC|HT07|Mémoire et devenir du patrimoine industriel au prisme des enjeux contemporains|5|
+QC|HT08|Techniques, économie et société|5
+QC|HT12|Histoire de l'Afrique : du colonial au postcolonial|5
+QC|LF74|Français pour ingénieurs niveau B2 et entraînement TCF|6
+QC|MR00|Méthodologie de recherche (Tronc Commun)|4
+QC|MR01|Méthodologie de recherche (à distance)|4
+QC|PH01|Découverte de la philosophie|5
+QC|PH02|Science, technique et politique|5
+QC|PH03|Théories du cinéma, théories des jeux vidéo|5
+QC|PH04|Philosophie et informatique|5
+QC|SA01|Atelier théâtre|4
+QC|SC01|De la psychologie cognitive à l'ergonomie cognitive|5
+QC|SI02|Sémiologie de l'image et du son|5
+QC|SO01|Sociologie du travail|5
+QC|SO03|Controverses de la transition|5
+QC|SO04|Sciences humaines et sociales pour la conception en recherche technologique|5	
+QC|SP07|Education physique et sportive option entretien physique|5	
+QC|TI01|Communication écrite|5
