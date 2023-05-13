@@ -28,6 +28,15 @@ public class UV {
     public String getName() {
         return name;
     }
-
+//getters
+    public String getDescription() {
+        return description;
+    }
+    public Type getType() {
+        return type;
+    }
+    public int getCredits() {
+        return credits;
+    }
 
 }

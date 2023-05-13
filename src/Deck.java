@@ -29,7 +29,7 @@ public class Deck extends LinkedList<Card> {
 
         while (line != null) {
             String[] parts = line.split("\\|");
-            this.add(new Card(new UV(parts[1], parts[2], parts[0], Integer.parseInt(parts[3].trim())), 0));
+            this.add(new Card(new UV(parts[1], parts[2], parts[0], Integer.parseInt(parts[3].trim()))));
             line = br.readLine();
         }
         br.close();
