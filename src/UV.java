@@ -2,7 +2,6 @@ public class UV {
     private final String name;
     private final String description;
     private final Type type;
-
     private final int credits;
 
     public enum Type {
